@@ -1,0 +1,9 @@
+httpx
+openai
+pyzbar
+opencv-python
+numpy
+Faker
+qrcode[pil]
+Pillow
+tqdm
