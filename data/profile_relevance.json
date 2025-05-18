@@ -1,0 +1,162 @@
+[
+    {
+        "id": "dcd46ebd-c84e-462b-85c2-7ffd635193c7",
+        "name": "Sophia Chen",
+        "title": "Master's Student in Computer Science",
+        "bio": "Specializing in machine learning with a focus on NLP applications. Completed a summer internship at Google developing sentiment analysis algorithms. Seeking opportunities to apply AI solutions to real-world business problems.",
+        "relevance": 0.9,
+        "relevance_explanation": "This profile strongly aligns with the organizer's interest in machine learning, and their Google internship experience is relevant to the organizer's software engineering internship goals."
+    },
+    {
+        "id": "90e8c549-159a-4a17-addb-66ad007feb9f",
+        "name": "Jamal Washington",
+        "title": "Undergraduate Student in Finance",
+        "bio": "Junior with a passion for fintech and blockchain technologies. President of the Investment Club with experience managing a $50,000 student portfolio. Looking for summer internships that blend finance and technology.",
+        "relevance": 0.4,
+        "relevance_explanation": "While both are juniors/sophomores seeking internships, the fintech and blockchain focus doesn't strongly align with the organizer's software engineering and machine learning interests."
+    },
+    {
+        "id": "566a1a56-8a47-49e2-a7b0-bc6660956dd0",
+        "name": "Dr. Priya Sharma",
+        "title": "PhD Candidate in Data Science",
+        "bio": "Completing dissertation on predictive analytics for market volatility. Published in top journals and developed an open-source forecasting tool. Exploring roles in quantitative analysis and algorithmic trading.",
+        "relevance": 0.6,
+        "relevance_explanation": "The predictive analytics work relates to the organizer's interest in data analysis, but the focus on market volatility and quantitative finance is less aligned with the organizer's core interests."
+    },
+    {
+        "id": "a24473df-f4e5-4c8e-820c-028d2b09dd0a",
+        "name": "Tyler Rodriguez",
+        "title": "Recent Graduate in Software Engineering",
+        "bio": "Graduated summa cum laude last month with expertise in full-stack development. Created an award-winning project management app during senior capstone. Eager to join a dynamic tech company where I can grow as a developer.",
+        "relevance": 0.8,
+        "relevance_explanation": "This recent graduate's full-stack development experience directly aligns with the organizer's web development skills (React, Node.js) and software engineering aspirations."
+    },
+    {
+        "id": "7e2663b9-1e85-44c6-b110-c252514cc237",
+        "name": "Olivia Jackson",
+        "title": "Undergraduate Student in Economics",
+        "bio": "Sophomore with strong quantitative skills and interest in economic modeling. Research assistant for department chair studying market efficiencies. Seeking first internship in financial analysis or economic consulting.",
+        "relevance": 0.5,
+        "relevance_explanation": "Both are sophomores seeking internships, but this profile focuses on economic modeling rather than software engineering or the organizer's technical interests."
+    },
+    {
+        "id": "f17db8f1-2c2a-4811-81dd-16a1de8d4bd8",
+        "name": "Marcus Thompson",
+        "title": "Technical Recruiter at Amazon",
+        "bio": "Responsible for hiring software engineers and data scientists across multiple teams. Former developer with 5 years of industry experience. Looking to connect with promising candidates passionate about cloud computing and e-commerce.",
+        "relevance": 0.7,
+        "relevance_explanation": "This recruiter hiring software engineers could be valuable for the organizer's internship search, especially with their background in development and cloud computing."
+    },
+    {
+        "id": "df9660ea-8804-42e5-9719-4fa57efbfb77",
+        "name": "Emma Liu",
+        "title": "Postdoctoral Researcher in Artificial Intelligence",
+        "bio": "Conducting research on reinforcement learning algorithms with applications in automated trading. Previously interned at JPMorgan Chase in their quantitative strategies division. Transitioning to industry roles in AI or quantitative finance.",
+        "relevance": 0.8,
+        "relevance_explanation": "Their research in reinforcement learning aligns well with the organizer's interest in machine learning, though the financial application is more specialized."
+    },
+    {
+        "id": "70c71140-a68f-4108-8193-5e2afdfb176f",
+        "name": "Daniel Patel",
+        "title": "Junior Software Engineer at Microsoft",
+        "bio": "Recent graduate now working on Azure cloud infrastructure. Completed three internships during undergrad at startups and tech giants. Here to share my journey and help students navigate the tech recruitment landscape.",
+        "relevance": 0.9,
+        "relevance_explanation": "This recent graduate with multiple internships and current industry experience is highly relevant for the organizer who is seeking internship opportunities and navigating the tech recruitment landscape."
+    },
+    {
+        "id": "eac22747-2adc-41ec-977e-850e4d88987c",
+        "name": "Dr. Robert Garcia",
+        "title": "Professor of Financial Engineering",
+        "bio": "Teaching computational finance and derivatives pricing models. Previously worked as a quant at Goldman Sachs for a decade. Advising students on bridging academic knowledge with industry applications in finance.",
+        "relevance": 0.3,
+        "relevance_explanation": "The computational finance focus has limited overlap with the organizer's interests, though there may be some relevance in the computational aspects."
+    },
+    {
+        "id": "a46a680b-1281-4825-a88e-7a9fb70e2ed5",
+        "name": "Aisha Johnson",
+        "title": "Master's Student in Business Analytics",
+        "bio": "Combining business acumen with technical expertise in data visualization and statistical analysis. Vice president of Women in Tech association. Interested in roles that leverage big data for strategic business decisions.",
+        "relevance": 0.6,
+        "relevance_explanation": "Their data visualization and statistical analysis skills relate to the organizer's interest in data analysis, though the business focus is less aligned."
+    },
+    {
+        "id": "9d2f9758-d2c6-4a1a-a871-104cce3d44af",
+        "name": "Brandon Kim",
+        "title": "Investment Banking Analyst at Morgan Stanley",
+        "bio": "First-year analyst in the technology M&A division. Graduated last year with dual degrees in Computer Science and Finance. Offering insights on breaking into investment banking with a technical background.",
+        "relevance": 0.5,
+        "relevance_explanation": "The Computer Science background is relevant, but the investment banking focus differs from the organizer's software engineering and machine learning interests."
+    },
+    {
+        "id": "b907e792-53c8-4b04-9c2d-cc3c5ed12f19",
+        "name": "Zoe Williams",
+        "title": "Event Coordinator for Tech Talent Connect",
+        "bio": "Organizing career fairs and networking events for top universities nationwide. Background in HR and campus recruitment. Passionate about creating meaningful connections between students and employers.",
+        "relevance": 0.7,
+        "relevance_explanation": "This person organizes career fairs and networking events, which could be highly valuable for the organizer who is actively seeking internships."
+    },
+    {
+        "id": "f241c185-8353-4ac9-8374-9de3dd970d5f",
+        "name": "Hassan Al-Farsi",
+        "title": "PhD Student in Computational Finance",
+        "bio": "Researching high-frequency trading algorithms and market microstructure. Interned at Two Sigma developing trading strategies. Seeking opportunities at quantitative hedge funds or financial technology firms.",
+        "relevance": 0.5,
+        "relevance_explanation": "The algorithmic trading research has some overlap with the organizer's programming skills, but the financial focus is different from the organizer's interests."
+    },
+    {
+        "id": "58a61cfa-ec76-46e8-910c-9c6362232705",
+        "name": "Jennifer Martinez",
+        "title": "Product Manager at Stripe",
+        "bio": "Leading development of payment processing solutions for small businesses. Computer Science graduate who transitioned from engineering to product. Excited to discuss non-traditional tech careers with students.",
+        "relevance": 0.7,
+        "relevance_explanation": "Their Computer Science background and transition to product development could provide valuable insights for the organizer's career path in software engineering."
+    },
+    {
+        "id": "a395556c-d535-460c-81db-38d173b567e0",
+        "name": "Lucas Nguyen",
+        "title": "Undergraduate Student in Information Systems",
+        "bio": "Senior with experience in database management and cloud architecture. Completed AWS certification and built several e-commerce platforms as freelance projects. Looking for roles in systems integration or cloud engineering.",
+        "relevance": 0.8,
+        "relevance_explanation": "This senior's experience in database management, cloud architecture, and e-commerce platform development aligns well with the organizer's web development skills and software engineering goals."
+    },
+    {
+        "id": "922509be-4ecd-4c47-9416-935ece47e247",
+        "name": "Samantha Wright",
+        "title": "University Alumni & Data Scientist at Bloomberg",
+        "bio": "Graduated three years ago and now building financial data models. Started as an intern and converted to full-time. Returning to campus to mentor current students interested in data science careers.",
+        "relevance": 0.8,
+        "relevance_explanation": "Their experience in data science and successful transition from intern to full-time is highly relevant to the organizer's interests in data analysis and internship goals."
+    },
+    {
+        "id": "4b8b7fdc-9f21-488e-95de-1ee795f13f56",
+        "name": "Raj Malhotra",
+        "title": "Talent Acquisition Manager at Goldman Sachs",
+        "bio": "Overseeing recruitment for technology and quantitative finance divisions. Focused on finding diverse talent with strong analytical skills. Can provide insights on what makes candidates stand out in financial services.",
+        "relevance": 0.7,
+        "relevance_explanation": "This recruiter could provide valuable insights for the organizer's internship search, though the focus on quantitative finance is less aligned with the organizer's interests."
+    },
+    {
+        "id": "212bb50f-e3d2-4e78-bcb3-816ad92334d8",
+        "name": "Grace Wilson",
+        "title": "Master's Student in Cybersecurity",
+        "bio": "Specializing in financial systems security and blockchain protocols. Completed penetration testing internship at a major bank. Seeking opportunities in fintech security or cryptographic system design.",
+        "relevance": 0.5,
+        "relevance_explanation": "The security and blockchain focus has limited overlap with the organizer's interests, though both involve software development skills."
+    },
+    {
+        "id": "7835c4b0-5e7b-44c7-8b3d-27f2473ae329",
+        "name": "Thomas Anderson",
+        "title": "Startup Founder & University Alumni",
+        "bio": "Launched a fintech platform after graduating three years ago. Previously interned at PayPal and a venture capital firm. Here to connect with entrepreneurial students and discuss startup opportunities.",
+        "relevance": 0.6,
+        "relevance_explanation": "Their experience at PayPal and launching a fintech platform involves software development, but the entrepreneurial and fintech focus differs somewhat from the organizer's current interests."
+    },
+    {
+        "id": "aa2c2d8a-fae6-4c68-8a1c-d32c8464a525",
+        "name": "Maya Okafor",
+        "title": "Career Services Director",
+        "bio": "Helping students navigate their professional journeys for over a decade. Previously worked in tech recruitment at IBM. Specializes in preparing STEM students for successful transitions to the workforce.",
+        "relevance": 0.8,
+        "relevance_explanation": "This career advisor specializing in STEM students' workforce transitions is highly relevant for the organizer who is actively seeking internships in software engineering."
+    }
+]

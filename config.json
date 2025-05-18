@@ -1,0 +1,12 @@
+{
+    "TOP_K_RESULTS": 3,
+    "USER_BIO": "Dartmouth Computer Science sophomore actively seeking a challenging Software Engineering internship for Summer 2025. Proficient in Python, Java, and C++, with hands-on experience in web development (React, Node.js) through personal projects and coursework. Strong interest in machine learning and data analysis. Eager to contribute to innovative projects and learn from experienced engineers. Active member of the Dartmouth DALI Lab, recently collaborated on developing a campus utility mobile application.",
+    "PROFILES_JSON_PATH": "data/profile_relevance.json",
+    "BASE_PROFILES_JSON_PATH": "data/base_profiles.json",
+    "QR_CODES_DIR": "data/qr_codes/",
+    "INPUT_IMAGE_PATH": "assets/sample_group.jpg",
+    "OUTPUT_IMAGE_PATH": "assets/sample_group_annotated.jpg",
+    "NUM_PROFILES_TO_GENERATE": 20,
+    "SAMPLE_IMAGES_DIR": "assets/sample_test_images/",
+    "CHAT_MODEL_NAME": "anthropic.claude-3-7-sonnet-20250219"
+}
